@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hegdesuhas27.github.io",
+  "homepage": "https://hegdesuhas27.github.io/React-Loader",
   "scripts": {
     "start": "vite",
     "build": "tsc -b && vite build",
